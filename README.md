@@ -2,7 +2,7 @@
 <p align="left">An <b>Software Engineer</b> with extensive experience in networking, operating systems, digital
   security, web development and data encryption.</p>
   <p>
-    <li>Founder and CEO of <b>Indevo lance</b> Freelancing.</li>
+    <li>Founder & CEO of <a href="https://www.linkedin.com/company/ugrit-company/" target="_blank"><b>Ugrit Company</b></a> Freelancing.</li>
   </p>
 
   <li>📊 Currently freelancing on <a href="https://khamsat.com/user/mina_gerguis" target="_blank">Khamsat</a>, <a
