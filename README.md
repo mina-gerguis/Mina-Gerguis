@@ -1,8 +1,11 @@
+![welcome](https://github.com/user-attachments/assets/b852a357-7b52-47b1-9eaa-554a13f1ff47)
+
+
 <h1 align="left">Hi 👋, I'm Mina Gerguis</h1>
-<p align="left">An <b>Software Engineer</b> with extensive experience in networking, operating systems, digital
-  security, web development and data encryption.</p>
+<p align="left">An <b>Software Development</b> & UI/UX & Data Analysis.</p>
+<p>Front-End Develoment</p>
   <p>
-    <li>Founder & CEO of <a href="https://www.linkedin.com/company/ugrit-company/" target="_blank"><b>Ugrit Company</b></a> Freelancing.</li>
+    <li>Founder & CEO of <a href="https://www.linkedin.com/company/stage-code/" target="_blank"><b>STAGE KODE</b></a>.</li>
   </p>
 
   <li>📊 Currently freelancing on <a href="https://khamsat.com/user/mina_gerguis" target="_blank">Khamsat</a>, <a
