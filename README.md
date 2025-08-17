@@ -48,15 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-</div>
-
-###
-
 <h5 align="left">◎ Back-End</h5>
 
 ###
 
-<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -96,7 +92,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-</div>
 
 ###
 
@@ -104,7 +99,7 @@
 
 ###
 
-<div align="left">
+
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
@@ -126,7 +121,7 @@
   <img src="https://cdn.simpleicons.org/behance/1769FF" height="30" alt="behance logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
-</div>
+
 
 ###
 
@@ -134,7 +129,7 @@
 
 ###
 
-<div align="left">
+
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
