@@ -131,106 +131,57 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="30" alt="apple logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="30" alt="notion logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="30" alt="ie10 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="30" alt="replit logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="30" alt="svg logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/webflow/4353FF" height="30" alt="webflow logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pug" height="30" alt="pug logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30"
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="30" alt="android logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="30" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" width="30" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" width="30" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="30" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" width="30" alt="arduino logo"  />
+  <img src="https://cdn.simpleicons.org/apple/000000" width="30" alt="apple logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" width="30" alt="swift logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=codepen" width="30" alt="codepen logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" width="30" alt="discord logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="facebook logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" width="30" alt="instagram logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="twitter logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="linkedin logo"  />
+  <img src="https://cdn.simpleicons.org/notion/000000" width="30" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="30" alt="firefox logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="30" alt="opera logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="30" alt="safari logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" width="30" alt="ie10 logo"  />
+  <img src="https://skillicons.dev/icons?i=md" width="30" alt="markdown logo"  />
+  <img src="https://cdn.simpleicons.org/replit/F26207" width="30" alt="replit logo"  />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" width="30" alt="stackoverflow logo"  />
+  <img src="https://cdn.simpleicons.org/svg/FFB13B" width="30" alt="svg logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" width="30" alt="supabase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="30" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="30" alt="debian logo"  />
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="30" alt="vercel logo"  />
+  <img src="https://cdn.simpleicons.org/webflow/4353FF" width="30" alt="webflow logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" width="30" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="30" alt="woocommerce logo"  />
+  <img src="https://skillicons.dev/icons?i=c" width="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="30" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=pug" width="30" alt="pug logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"
     alt="apache logo" />
-  <img width="5">
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="30" alt="moodle logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" width="30" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unreal" width="30" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" width="30" alt="moodle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="30" alt="xcode logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" width="30" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="30" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="30" alt="phpstorm logo"  />
 </div>
 
 ###
