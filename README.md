@@ -1,3 +1,4 @@
+![welcome](https://github.com/user-attachments/assets/83d1ba09-96bc-4892-9e16-9c68e194de33)
 <h1 align="left">Hi 👋, I'm Mina Gerguis</h1>
 <p align="left">An <b>Software Engineer, UI/UX, Data Analysis</b> </p>
   <p>
