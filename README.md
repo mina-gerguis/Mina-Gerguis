@@ -1,24 +1,16 @@
 <h1 align="left">Hi 👋, I'm Mina Gerguis</h1>
-<p align="left">An <b>Software Engineer</b> with extensive experience in networking, operating systems, digital
-  security, web development and data encryption.</p>
+<p align="left">An <b>Software Engineer, UI/UX, Data Analysis</b> </p>
   <p>
-    <li>Founder & CEO of <a href="https://www.linkedin.com/company/ugrit-company/" target="_blank"><b>Ugrit Company</b></a> Freelancing.</li>
+    <li>Founder & CEO of <a href="https://www.linkedin.com/company/stage-kode/" target="_blank"><b>STAGE KODE</b></li>
+    <li>Creative software developer passionate about web design, coding, and continuous growth in tech.
+</li>
   </p>
-
-  <li>📊 Currently freelancing on <a href="https://khamsat.com/user/mina_gerguis" target="_blank">Khamsat</a>, <a
-      href="#" target="_blank">Upwork</a>, <a href="#" target="_blank">Mostaql</a>, <a href="#"
-      target="_blank">Freelancer</a>.</li>
-  <li>📚 I get my information from books or tutorials from experts.</li>
-  <li>🌱 I work on using modern methods in dealing with software</li>
-  <li>🌐 I create a strong profile on all platforms, the most important of which is <a
-      href="https://www.linkedin.com/in/mina-gerguis" target="_blank">LinkedIn</a>.</li>
-  <li>✨ I speak more than one language <b>Arabic</b> ,<b>English</b> ,<b>Russian</b> ,<b>German</b></li>
   <hr>
 
-<h2>⚡ Skills</h2>
+### 💻 Tech Skills:
 <h5 align="left">◎ Front-End</h5>
 
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="html5 logo"  />
@@ -151,39 +143,17 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mina-gerguis.mina-gerguis&"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mina-gerguis&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/snake.svg" alt="Snake animation" />
 
-###
+## 📄 Profile Overview
 
-
-
-###
-
-###
-
-
-![](https://github-profile-trophy.vercel.app/?username=mina-gerguis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=mina-gerguis&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<h1>📄 Profile Overview</h1>
 <p>
 I am a Web Developer specializing in Front-End and Back-End development, creating professional and fully integrated web applications.
 
@@ -198,18 +168,10 @@ I also focus on performance optimization and web security to ensure speed, relia
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <hr>
 <h1>🔗 Contact Me</h1>
 <li><b>Email: </b> <a target="_blank" href="mailto:mina_gerguis@hotmail.com">mina_gerguis@hotmail.com</a></li>
-<li><b>Linkedin: </b> <a target="_blank" href="https://www.linkedin.com/in/minagerguis/">Mina Gerguis</a></li>
+<li><b>Linkedin: </b> <a target="_blank" href="https://www.linkedin.com/in/mina-gerguis/">Mina Gerguis</a></li>
 <li><b>website: </b> <a target="_blank" href="https://mina-gerguis.web.app">Check Portfolio</a></li>
 
 ###
@@ -217,109 +179,77 @@ I also focus on performance optimization and web security to ensure speed, relia
 <hr>
 
 <h1>📫 Official Accounts</h1>
-<div align="left">
-  <a href="https://www.facebook.com/Menoo.eg/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="facebook logo" />
-  </a>
-  <a href="htpps://instagram.com/mina__gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/erCRGY2Ww8" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/@Menoo.eg" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="youtube logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/mina-gerguis/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://www.behance.net/mina_gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="behance logo" />
-  </a>
-  <a href="https://codepen.io/mina_gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="codepen logo" />
-  </a>
-  <a href="https://dribbble.com/mina_gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="dribbble logo" />
-  </a>
-  <a href="mailto:mina_gerguis@hotmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="microsoft-outlook logo" />
-  </a>
-  <a href="https://paypal.me/gerguismina" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="paypal logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/29300155/mina-gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="stackoverflow logo" />
-  </a>
-  <a href="https://t.me/mina_gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="telegram logo" />
-  </a>
-  <a href="https://x.com/Mina__Gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="twitter logo" />
-  </a>
-  <a href="https://unsplash.com/@mina_gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="unsplash logo" />
-  </a>
-  <a href="https://ko-fi.com/mina_gerguis" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge"
-      height="30" alt="ko-fi logo" />
-  </a>
-</div>
-
-###
-
-<hr>
-<br clear="both">
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mina-gerguis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
-    height="150" alt="stats graph" />
-  <img
-    src="https://streak-stats.demolab.com?user=mina-gerguis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-    height="150" alt="streak graph" />
+  <a href="https://www.facebook.com/mongerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/mina_gerguis/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@minagerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/mongerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=x.com&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/StTErfmPRm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.behance.net/mina_gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
+  </a>
+  <a href="https://codepen.io/mina_gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
+  </a>
+  <a href="https://dribbble.com/mina_gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mina-gerguis/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/mina_gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
+  </a>
+  <a href="https://medium.com/@mina_gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
+  </a>
+  <a href="mina_geruis@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.paypal.com.me/gerguismina" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/29300155/mina-gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://t.me/minagerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://unsplash.com/@minagerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="unsplash logo"  />
+  </a>
+  <a href="https://ko-fi.com/minagerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+  </a>
+  <a href="https://webdev-ue87049.slack.com/team/U09B6H9U4MP" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="slack logo"  />
+  </a>
+  <a href="https://codesandbox.io/u/minagerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="30" alt="codesandbox logo"  />
+  </a>
+  <a href="https://bsky.app/profile/minagerguis.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="bluesky logo"  />
+  </a>
+  <a href="https://dev.to/mina_gerguis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+  </a>
 </div>
 
 ###
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
-
-<img src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/snake.svg" alt="Snake animation" />
-
-###
+<hr>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-gerguis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
