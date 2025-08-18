@@ -15,10 +15,10 @@
   <li>✨ I speak more than one language <b>Arabic</b> ,<b>English</b> ,<b>Russian</b> ,<b>German</b></li>
   <hr>
 
-<h1>⚡ Skills</h1>
+<h2>⚡ Skills</h2>
 <h5 align="left">◎ Front-End</h5>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="html5 logo"  />
@@ -151,10 +151,35 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mina-gerguis.mina-gerguis&"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/snake.svg" alt="Snake animation" />
 
 ###
 
+
+
+###
+
+###
+
+
+![](https://github-profile-trophy.vercel.app/?username=mina-gerguis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mina-gerguis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -283,5 +308,18 @@ I also focus on performance optimization and web security to ensure speed, relia
     src="https://streak-stats.demolab.com?user=mina-gerguis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
     height="150" alt="streak graph" />
 </div>
+
+###
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/mina-gerguis/mina-gerguis/output/snake.svg" alt="Snake animation" />
 
 ###
