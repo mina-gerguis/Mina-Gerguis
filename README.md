@@ -20,13 +20,19 @@
 
 ###
 
-<div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
@@ -34,13 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
@@ -48,11 +54,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
+</div>
+
+###
+
 <h5 align="left">◎ Back-End</h5>
 
 ###
 
-
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -92,6 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+</div>
 
 ###
 
@@ -99,29 +110,19 @@
 
 ###
 
-
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="30" alt="sketch logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="30" alt="behance logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="30" alt="gimp logo"  />
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ps" width="30" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ai" width="30" alt="adobeillustrator logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" width="30" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" width="30" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=xd" width="30" alt="xd logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" width="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="30" alt="sketch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="30" alt="inkscape logo"  />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" width="30" alt="behance logo"  />
+  <img src="https://cdn.simpleicons.org/gimp/5C5543" width="30" alt="gimp logo"  />
+</div>
 
 ###
 
@@ -129,7 +130,7 @@
 
 ###
 
-
+<div align="left">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
