@@ -230,7 +230,7 @@ I also focus on performance optimization and web security to ensure speed, relia
   <a href="https://unsplash.com/@minagerguis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="unsplash logo"  />
   </a>
-  <a href="https://ko-fi.com/minagerguis" target="_blank">
+  <a href="https://ko-fi.com/mina_gerguis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
   </a>
   <a href="https://webdev-ue87049.slack.com/team/U09B6H9U4MP" target="_blank">
